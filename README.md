@@ -1,0 +1,2 @@
+# solid
+Ready to learn
